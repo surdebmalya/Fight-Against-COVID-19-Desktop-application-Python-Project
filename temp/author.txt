@@ -1,0 +1,4 @@
+Hello World!!!
+Myself Debmalya Sur, a student of Computer Science & Engineering, a growing software developer and also highly attracted towards Data Science. 
+The application is to give a clear concept about COVID-19. The application is completely being designed by me. The only purpose to design such application is to help other people with my knowledge.
+You may see my other projects by clicking the button below, it will bring you to my blog page.
