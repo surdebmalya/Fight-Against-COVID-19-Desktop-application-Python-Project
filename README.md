@@ -1,7 +1,7 @@
 # Fight-Against-COVID-19-Desktop-application-Python-Project
 Here is a Desktop application made by me with python programming language.
 ## Watch The Application In Action
-> https://youtu.be/ZPAEU0tlUxk
+[![Watch the video](http://i3.ytimg.com/vi/ZPAEU0tlUxk/maxresdefault.jpg)](https://youtu.be/ZPAEU0tlUxk)
 ## View My Blog For More Details
 > https://dsasanengineer.blogspot.com/2020/05/fight-against-covid-19-desktop.html
 ## Features
