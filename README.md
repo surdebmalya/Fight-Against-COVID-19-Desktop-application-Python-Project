@@ -1,5 +1,5 @@
 # Fight-Against-COVID-19-Desktop-application-Python-Project
-Here is a Desktop application made by me with python programming language.
+Here is a Desktop application made by @Debmalya Sur with python programming language.
 ## Watch The Application In Action
 [![Watch the video](http://i3.ytimg.com/vi/ZPAEU0tlUxk/maxresdefault.jpg)](https://youtu.be/ZPAEU0tlUxk)
 ## View My Blog For More Details
