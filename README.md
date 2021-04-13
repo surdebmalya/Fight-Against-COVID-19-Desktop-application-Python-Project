@@ -2,8 +2,6 @@
 Here is a Desktop application made by @Debmalya Sur with python programming language.
 ## Watch The Application In Action
 [![Watch the video](http://i3.ytimg.com/vi/ZPAEU0tlUxk/maxresdefault.jpg)](https://youtu.be/ZPAEU0tlUxk)
-## View My Blog For More Details
-> [Click Here](https://dsasanengineer.blogspot.com/2020/05/fight-against-covid-19-desktop.html) To View The Related Blog!
 ## Features
 > - The application has auto login feature.
 > - There will be email verification process to create your account. 
